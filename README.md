@@ -1,57 +1,58 @@
-# Hi 👋, I'm Khushal Arya  
-
-🎓 3rd Year BCA Student | 💻 Full-Stack Developer | 🚀 Tech Explorer | ✈️ Future Aviator  
-
-I love building things that solve real-world problems. From web apps to mobile apps, 3D AI projects to security tools, I explore everything in **JavaScript, React, React Native, Node.js, and Python**.  
-I’m also preparing for my aviation career while running multiple tech projects.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Khushal+Arya;Full+Stack+Developer;Cybersecurity+Learner;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔥 About Me
-- 🌱 Currently mastering **JavaScript & Full-Stack Development**  
-- 💡 Exploring **Cybersecurity, DevOps, and AI/ML**  
-- 🏗️ Building cool projects like travel platforms, booking apps, games, and AI tools  
-- ✍️ Aspiring **blogger & author** (working on eBooks & blogs)  
-- 🎯 Goal: 1 Cr+ off-campus placement  
+# 🚀 About Me  
+- 🎓 4th Year **BCA Integrated** Student @ IIPS DAVV, Indore  
+- 💻 Passionate about **Web Development (React, Node.js)**  
+- 🔐 Exploring **Cybersecurity & DevOps**  
+- 🌏 Love building **real-world projects** & learning new tech  
+- 🎸 Hobbies: Music | Travel | Cars | Boxing  
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
-- **Mobile:** React Native (Expo)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL, Supabase  
-- **DevOps & Cloud:** Docker, Kubernetes (learning), Cloud Storage  
-- **Other Interests:** Cybersecurity, AI/ML, Game Development  
+# 🛠️ Tech Stack  
+**Languages**  
+`JavaScript` `Python` `C` `Java`  
+
+**Frameworks & Tools**  
+`React.js` `Node.js` `Express.js` `Supabase`  
+`Git` `GitHub` `Docker (learning)`  
+
+**Interests**  
+`Cybersecurity 🔐` `Cloud ☁️` `3D/AI 🤖`  
 
 ---
 
-## 📂 Featured Projects
-Here are some of my best works:  
-
-- 🌍 **[travel-website](#)** → Travel booking platform with tour packages & agency listings  
-- 🚕 **[taxi-flight-booking](#)** → Book taxis & flights online  
-- 📂 **[react-native-cloud-upload](#)** → File upload app with Clerk authentication  
-- 🔐 **[cybersecurity-scanner](#)** → AI-powered website vulnerability scanner  
-- 🕹️ **[fighting-game-web](#)** → Browser-based fighting game  
-- 🏎️ **[racing-game-app](#)** → Mobile racing game  
-- 🎥 **[ipl-event-recorder](#)** → React Native app to record IPL highlights  
-- 🤖 **[ai-3d-character](#)** → Interactive 3D AI character  
+# 📌 Featured Projects  
+🔗 [AI Website Scanner](#) – Security assessment tool (in progress)  
+🔗 [Travel & Booking Website](#) – Packages + taxi/flight booking  
+🔗 [React Native File Share App](#) – Upload, Cloud Storage + Clerk Auth  
+🔗 [3D AI Character](#) – Interactive assistant  
 
 ---
 
-## 📊 GitHub Stats
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalarya&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalarya&layout=compact&theme=tokyonight)  
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushalcodes&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalcodes&theme=radical" alt="streak" height="160"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: **yourmail@example.com**  
-- 📸 Instagram: [@khushalarya](#)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 📝 Blog: *Coming Soon...*  
+# 📫 Connect With Me  
+- ✉️ Email: your-email@example.com  
+- ✉️ Email: arya9589940262@gmail.com  
+- 🌐 Portfolio: [your-portfolio-link](#)  
+- 💼 LinkedIn: [linkedin.com/in/khushalcodes](#)  
 
 ---
 
-✨ *“Code, Travel, and Keep Exploring.”* ✨  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushalcodes&label=Profile%20Views&color=blue&style=flat" alt="views"/>
+</p>
+
+<p align="center">✨ "Code. Learn. Build. Repeat." ✨</p>
