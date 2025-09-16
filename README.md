@@ -43,8 +43,7 @@
 
 ---
 
-# 📫 Connect With Me  
-- ✉️ Email: your-email@example.com  
+# 📫 Connect With Me 
 - ✉️ Email: arya9589940262@gmail.com  
 - 🌐 Portfolio: [your-portfolio-link](#)  
 - 💼 LinkedIn: [linkedin.com/in/khushalcodes](#)  
