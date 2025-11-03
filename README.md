@@ -6,7 +6,7 @@
 ---
 
 # 🚀 About Me  
-- 🎓 4th Year **BCA Integrated** Student @ IIPS DAVV, Indore  
+- 🎓 4th Year **MCA Integrated** Student @ IIPS DAVV, Indore  
 - 💻 Passionate about **Web Development (React, Node.js)**  
 - 🔐 Exploring **Cybersecurity & DevOps**  
 - 🌏 Love building **real-world projects** & learning new tech  
